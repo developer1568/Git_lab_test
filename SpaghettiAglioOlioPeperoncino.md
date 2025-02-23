@@ -8,3 +8,4 @@ Uno dei miei iatti preferiti, lo mangerei anche a mezzanotte!
 * aglio
 * olio
 * peperoncino
+* prezzemolo
